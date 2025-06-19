@@ -1,0 +1,9 @@
+fastapi # Web framework
+uvicorn # ASGI server
+sqlalchemy # ORM
+pydantic[email] # Data validation
+python-jose[cryptography] # JWT handling
+passlib[bcrypt] # Password hashing
+python-multipart # File uploads
+
+#sqlite3 voting_system.db
